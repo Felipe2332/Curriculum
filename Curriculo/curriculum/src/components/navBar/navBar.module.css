@@ -1,0 +1,18 @@
+
+
+.navBar{
+    background-color: rgb(101, 25, 252);
+    display: flex;
+    height: 100px;
+    
+    align-items: center;
+    padding: 0 60px;
+    
+}
+
+.links{
+    text-decoration: none;
+    font-size: larger;
+    padding: 10px; /*Cima direita baixo esquerda*/
+    color: white;
+}
