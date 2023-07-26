@@ -19,12 +19,12 @@ export default function Cards()
 
                 <div className={styles.box2}>
                     <h1 className={styles.escrita}>Projetos em destaque </h1>
-                    <h3 className={styles.escrita}> <a href="felipe2332.github.io/eliteempresa.github.io/">Site Institucional para a empresa Elite Segurança</a> </h3>
+                    <h3 className={styles.escrita}> <a href="https://felipe2332.github.io/eliteempresa.github.io/">Site Institucional para a empresa Elite Segurança</a> </h3>
 
                     <p className={styles.escrita}>Criação e implementação de um site informativo e atraente para promover os serviços da empresa. Utilização de HTML5, CSS3 e Formspree para desenvolver a interface interativa do site. Conversei com meu superior para colocar o site no ar oficialmente, porém não chegamos a um acordo. </p>
 
                     
-                    <h3 className={styles.escrita}> <a href="felipe2332.github.io/Projeto.html">Site Pessoal de Reviews e Recomendações de Filmes</a></h3>
+                    <h3 className={styles.escrita}> <a href="https://felipe2332.github.io/Projeto">Site Pessoal de Reviews e Recomendações de Filmes</a></h3>
 
                     <p className={styles.escrita}>Criação de um site pessoal estilo blog para compartilhar opiniões, reviews e recomendações de filmes. Utilização de HTML5, CSS3 para criar um design atraente e responsivo. Ultimamente tem sido uma plataforma para expressar meus interesses, desenvolver minhas habilidades de redação e desenvolvimento web. </p>          
                 </div>
