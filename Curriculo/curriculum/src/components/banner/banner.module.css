@@ -13,7 +13,7 @@
 
 .image{
     margin-top: 0;/*Essas duas propriedades ajustam a imagem dentro do container*/
-    margin-left: 0;
+    margin-left: 0;/*Verificando*/
     width: 150px;
     height: auto;
     border-radius: 7.5px;
