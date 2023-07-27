@@ -9,11 +9,19 @@ html,body
   font-family: Helvetica;
 }
 
+.fade-out {
+  opacity: 0; /* Define a opacidade para 0 durante a animação */
+  transform: translateY(-20px); /* Desloca o componente 20px para cima durante a animação */
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out; /* Define a transição com 0,5 segundos e uma animação suave */
+}
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

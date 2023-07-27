@@ -1,12 +1,11 @@
+import styles from './navBar.module.css';
+import { Link } from 'react-router-dom';
 
-import styles from './navBar.module.css'
-
-export default function NavBar()
-{
-    return(
-        <nav className={styles.navBar}>
-                <a href="" >Home</a>
-                <a href="" >Contato</a>
-        </nav>
-    )
+export default function NavBar() {
+  return (
+    <nav className={styles.navBar}>
+      <Link to="/">Home</Link>
+      <Link to="/contato">Contato</Link>
+    </nav>
+  );
 }
