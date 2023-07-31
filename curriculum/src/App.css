@@ -9,6 +9,7 @@ html,body
   font-family: Helvetica;
   /* Sombra de texto com deslocamento horizontal e vertical e cor */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  
 }
 
 .fade-out {
