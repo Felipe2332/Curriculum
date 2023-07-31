@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Curriculum/static/css/main.507810b3.css",
-    "main.js": "/Curriculum/static/js/main.6e89b0c0.js",
+    "main.css": "/Curriculum/static/css/main.69512822.css",
+    "main.js": "/Curriculum/static/js/main.14483213.js",
     "static/js/787.595c645d.chunk.js": "/Curriculum/static/js/787.595c645d.chunk.js",
     "static/media/fotoMinha.png": "/Curriculum/static/media/fotoMinha.d92a45047a7db466724b.png",
     "static/media/wp8719112-cyberpunk-night-city-wallpapers.jpg": "/Curriculum/static/media/wp8719112-cyberpunk-night-city-wallpapers.35b55dcfa641cb83327c.jpg",
     "index.html": "/Curriculum/index.html",
-    "main.507810b3.css.map": "/Curriculum/static/css/main.507810b3.css.map",
-    "main.6e89b0c0.js.map": "/Curriculum/static/js/main.6e89b0c0.js.map",
+    "main.69512822.css.map": "/Curriculum/static/css/main.69512822.css.map",
+    "main.14483213.js.map": "/Curriculum/static/js/main.14483213.js.map",
     "787.595c645d.chunk.js.map": "/Curriculum/static/js/787.595c645d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.507810b3.css",
-    "static/js/main.6e89b0c0.js"
+    "static/css/main.69512822.css",
+    "static/js/main.14483213.js"
   ]
 }
