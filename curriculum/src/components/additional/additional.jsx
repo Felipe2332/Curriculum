@@ -27,6 +27,10 @@ export default function Additional()
             Funções: aceito serviços rápidos de consertos de computadores, notebooks principalmente. Abro o dispositivo, faço limpeza, instalo peças. Faço formatação do sistema se necessário. 
             </p>
             </div>
+            <br />
+            <br />
+            <br />
+            
         </div>
     )
 }
