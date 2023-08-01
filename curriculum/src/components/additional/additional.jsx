@@ -16,13 +16,13 @@ export default function Additional()
             <div className={styles.box1}>
 
             <h1>Experiência profissional </h1>
-            <h3> R. FERREIRA DA SILVA BARBOSA – SEGURANÇA</h3>
+            <h4> R. FERREIRA DA SILVA BARBOSA – SEGURANÇA</h4>
             <h4>Auxiliar Administrativo (2016 – 2023)</h4>
             <p>
             Funções: Responsável pela emissão de boletos e notas fiscais mensais, organização do escritório, pagamento de funcionários, controle de escalas e emissão de recibos de pagamento. 
             </p>
 
-            <h3>AUTÔNOMO NA ÁREA DE REPARO E FORMATAÇÃO DE COMPUTADORES (2021 – 2023) </h3>
+            <h4>AUTÔNOMO NA ÁREA DE REPARO E FORMATAÇÃO DE COMPUTADORES (2021 – 2023) </h4>
             <p>
             Funções: aceito serviços rápidos de consertos de computadores, notebooks principalmente. Abro o dispositivo, faço limpeza, instalo peças. Faço formatação do sistema se necessário. 
             </p>

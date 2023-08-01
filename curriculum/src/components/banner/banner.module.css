@@ -32,25 +32,25 @@
         display: flex; /* Define o container como flexível */
         align-items: center; /* Alinha os elementos verticalmente */
         flex-direction: column;
+        justify-content: center;
         border: 2px solid rgb(101, 25, 252);
         /*Essas tres propriedades ajustam o container na pagina*/
-        max-height: 800px;
-        max-width: 800px;
-        margin-left: 0px;
+        max-height: 1200px;
+        max-width: 900px;
         border-radius: 10px;
+        margin: 0px auto;/*Alinhado com isso*/
         
     }
     .image{
         margin-top: 20px;/*Essas duas propriedades ajustam a imagem dentro do container*/
-        margin-left: 0;
         width: 250px;
         height: auto;
-        border-radius: 7.5px;
+        border-radius: 50%;
         
     }
 
     .escrita{
-        font-size: 30px;
+        font-size: 4vw;
         padding: 0 10px;
         color: white;
         text-align: center;

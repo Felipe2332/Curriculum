@@ -4,12 +4,17 @@
 
 html,body
 {
-  background-color: black;
+  background-color: #090a0c;
   color: #ffffff;
   font-family: Helvetica;
   /* Sombra de texto com deslocamento horizontal e vertical e cor */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   
+}
+
+/* Evitar rolagem lateral */
+body.no-overflow-x {
+  overflow-x: hidden;
 }
 
 .fade-out {

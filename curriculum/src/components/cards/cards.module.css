@@ -85,8 +85,9 @@
         border: 2px groove rgb(101, 25, 252);
         border-radius: 10px;
         max-height:fit-content;
-        width: 400px;
-        margin: 25px auto; /* Adicionado para centralizar horizontalmente */
+        width: 700px;
+        margin: 40px auto; /* Adicionado para centralizar horizontalmente */
+        
         
         
     }
@@ -97,9 +98,9 @@
         border: 2px groove rgb(101, 25, 252);
         border-radius: 10px;
         max-height:fit-content;
-        width: 400px;
+        width: 700px;
         margin-top: 150px;
-        margin: 25px auto; /* Adicionado para centralizar horizontalmente */
+        margin: 40px auto; /* Adicionado para centralizar horizontalmente */
         
     }
     .box3{
@@ -109,16 +110,16 @@
         border: 2px groove rgb(101, 25, 252);
         border-radius: 10px;
         max-height:fit-content;
-        width: 400px;
+        width: 700px;
         margin-top: 150px;
-        margin: 25px auto; /* Adicionado para centralizar horizontalmente */
+        margin: 40px auto; /* Adicionado para centralizar horizontalmente */
     }
     
     .escrita{
-        padding: 0 3px;
+        padding: 25px;
         text-align: center;
         margin-top: 4px;
-        font-size: 30px; /*Alterado aqui*/
+        font-size: 45px; /*Alterado aqui*/
     }
     
     /*Links*/
@@ -130,7 +131,7 @@
         -webkit-background-clip: text; /* Suporte para navegadores WebKit (por exemplo, Safari) */
         color: transparent; /* Torna o texto transparente para mostrar apenas a imagem de fundo */
         transition: color 0.8s ease ;
-        font-size: 30px; /*Alterado aqui*/
+        font-size: 45px; /*Alterado aqui*/
     
     }
     
