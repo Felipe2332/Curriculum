@@ -20,20 +20,20 @@ export default function Contato()
             <div>
             <label >Nome:</label>
             </div>
-            <input placeholder="Digite seu nome" />
+            <input name="name" placeholder="Digite seu nome" />
             
             <div>
             <label>Seu E-mail:</label>
             </div>
 
-            <input type="email" id="email" placeholder="emailexemplo@outlook.com"/>
+            <input type="email" id="email" name="email"placeholder="emailexemplo@outlook.com"/>
             
 
             <div>
             <label>Sua mensagem:</label>
             </div>
 
-            <textarea rows="8" maxlength="3000" id="texto" placeholder="Qual sua mensagem?" />
+            <textarea rows="8" maxlength="3000" id="texto" name="message" placeholder="Qual sua mensagem?" />
 
             <div className={styles.divbotaoEnviar}>
             <button type="submit" className={styles.botaoEnviar}>Enviar</button>
