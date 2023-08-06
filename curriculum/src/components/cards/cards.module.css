@@ -70,6 +70,7 @@
 @media(max-width: 1080px)
 {
     .container{
+        
         display: flex;
         justify-content:center;/*Essa propriedade alinha eles horizontalmente, sem precisar ficar empurrando da margem esquerda*/
         flex-direction: column;/*Alterado aqui*/
