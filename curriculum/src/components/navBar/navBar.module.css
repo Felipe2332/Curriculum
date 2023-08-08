@@ -34,7 +34,7 @@
         
         /*Alinham no meio da navBar*/
         align-items: center;
-        justify-content:center;
+        justify-content:space-around;
         height: 200px;
         padding: 0 60px;
         
@@ -43,7 +43,7 @@
     .navBar a{
         text-decoration: none;
         font-size: 75px;
-        padding: 10px; /*Cima direita baixo esquerda*/
+        padding: 8px; /*Cima direita baixo esquerda*/
         background-image: linear-gradient(to right, red, blue); /* Aplica uma imagem de fundo personalizada */
         background-clip: text; /* Faz a imagem de fundo seguir o contorno das letras */
         -webkit-background-clip: text; /* Suporte para navegadores WebKit (por exemplo, Safari) */

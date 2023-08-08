@@ -86,8 +86,9 @@
         border: 2px groove rgb(101, 25, 252);
         border-radius: 10px;
         max-height:fit-content;
-        width: 700px;
+        width: 900px;
         margin: 40px auto; /* Adicionado para centralizar horizontalmente */
+        margin-top: 150px;
         
         
         
@@ -99,7 +100,7 @@
         border: 2px groove rgb(101, 25, 252);
         border-radius: 10px;
         max-height:fit-content;
-        width: 700px;
+        width: 900px;
         margin-top: 150px;
         margin: 40px auto; /* Adicionado para centralizar horizontalmente */
         
@@ -111,9 +112,9 @@
         border: 2px groove rgb(101, 25, 252);
         border-radius: 10px;
         max-height:fit-content;
-        width: 700px;
-        margin-top: 150px;
-        margin: 40px auto; /* Adicionado para centralizar horizontalmente */
+        width: 900px;
+        margin: 40px auto;
+        
     }
     
     .escrita{
