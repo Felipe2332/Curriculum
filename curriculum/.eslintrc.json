@@ -1,0 +1,56 @@
+{
+  "env": {
+      "browser": true,
+      "es2021": true,
+      "jest": true,
+      "node": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "extends": [
+      "eslint:recommended",
+      "plugin:react/recommended",
+      "plugin:@typescript-eslint/recommended",
+      "plugin:prettier/recommended"
+  ],
+  "overrides": [
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true
+      },
+      "ecmaVersion": "latest", //12
+      "sourceType": "module"
+  },
+  "plugins": [
+      "react",
+      "@typescript-eslint",
+      "react-hooks"
+  ],
+  "rules": {
+      "@typescript-eslint/no-non-null-assertion": "off",
+      "@typescript-eslint/explicit-module-boundary-types": "off",
+      "react/react-in-jsx-scope" : "off",
+      "linebreak-style": 0,
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhautive-deps": "warn",
+      "react/prop-types": "off",
+      "max-len":["error", {"code": 160}],
+      "indent": [
+          "error",
+          2
+      ],
+      "quotes": [
+          "error",
+          "single"
+      ],
+      "semi": [
+          "error",
+          "always"
+      ]
+  }
+}
