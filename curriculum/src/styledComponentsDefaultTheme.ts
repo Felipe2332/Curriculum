@@ -2,9 +2,11 @@ const CustomTheme = {
   colors: {
     green: "#55C6B3",
     blue: "#4169E1",
+    lightBlue: "#03a9f4",
     grey: "#213547",
     white: "#fff",
     whiteTranslucid: "rgba(255,255,255,.9)",
+    transparent: "rgba(0, 0, 0, 0)",
     black: "#222"
   },
   fonts: {
