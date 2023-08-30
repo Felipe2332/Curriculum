@@ -30,7 +30,7 @@ function App() {
       <Route
         render={({ location }) => (
           <TransitionGroup>
-            <CSSTransition key={isLoaded ? location.key : 'main'} timeout={400} classNames="fade">
+            <CSSTransition key={isLoaded ? location.key : 'main'} timeout={500} classNames="fade">
               <Switch location={location}>
                 <Route exact path="/">
                   {/* Componentes da página inicial */}
